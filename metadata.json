@@ -1,0 +1,6 @@
+{
+  "name": "Osu! Song Exporter to YouTube Music",
+  "description": "An application to read your osu! song folder names and add them to a YouTube Music playlist. You will need to provide your own YouTube Data API Client ID.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
